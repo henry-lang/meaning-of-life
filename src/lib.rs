@@ -1,3 +1,4 @@
+// The meaning of life
 pub const MEANING_OF_LIFE: u8 = 42;
 
 mod tests {

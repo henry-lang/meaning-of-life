@@ -3,6 +3,9 @@ name = "meaning-of-life"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+license = "MIT"
+description = "Helps you figure out the meaning of life."
+homepage = "https://github.com/henry-lang/meaning-of-life"
+documentation = "https://github.com/henry-lang/meaning-of-life"
+repository = "https://github.com/henry-lang/meaning-of-life"
+readme = "README.md"
